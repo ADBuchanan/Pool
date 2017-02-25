@@ -1,4 +1,0 @@
-﻿  Ball.cpp
-j:\programming\pool\pool\ball.h(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-j:\programming\pool\pool\ball.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Pool.vcxproj -> J:\Programming\Pool\Debug\Pool.exe
